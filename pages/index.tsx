@@ -2,10 +2,10 @@ import Layout from "../components/Layout";
 
 const Home = () => {
   return (
-    <Layout children={undefined}>
+    <Layout>
       <div className="uk-section">
         <div className="uk-container uk-container-large">
-          <h1>Title from Layout</h1>
+          <h1>Title</h1>
         </div>
       </div>
     </Layout>
